@@ -264,15 +264,6 @@ body {
   color: white;
 }
 
-.kaggle-icon {
-  color: var(--theme-bg-color);
-  font-family: 'Trebuchet MS', sans-serif;
-}
-
-.kaggle-icon:hover {
-  color: white;
-}
-
 #contact .light-mask {
   background-color: #176bafce;
   position: absolute;
